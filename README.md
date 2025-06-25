@@ -1,4 +1,9 @@
 # Aplicativo de Registro de Falta de Energia
+- Jhonatan Curci RM94188
+- Ricardo Queiroz RM94241
+- João Victor Soares RM551410
+
+# Aplicativo de Registro de Falta de Energia
 
 Este aplicativo React Native permite o registro e visualização local de eventos de falta de energia causados por desastres naturais.
 
