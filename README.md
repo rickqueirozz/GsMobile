@@ -1,4 +1,4 @@
-# Aplicativo de Registro de Falta de Energia
+# Nomes
 - Jhonatan Curci RM94188
 - Ricardo Queiroz RM94241
 - João Victor Soares RM551410
